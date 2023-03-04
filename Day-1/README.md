@@ -1,12 +1,5 @@
+/** Day 1 exercise 1.1 
 ## Printing to the Console
-
-# UPDATE
-We've moved away from repl.it for coding exercises.
-Check out the new exercises on Coding Rooms with automated submissions.
-
-Login to your Udemy course and head over to the link below to get the sign up link:
-
-[Click here](https://www.udemy.com/course/100-days-of-code/learn/lecture/17825914#questions)
 
 # Instructions
 
@@ -44,3 +37,44 @@ This repl includes my testing code that will check if your code meets this assig
 # Solution
 
 [https://repl.it/@appbrewery/day-1-1-solution](https://repl.it/@appbrewery/day-1-1-solution)
+
+ Day 1 exercise 1.2
+
+## Debugging
+
+# Instructions
+
+Look at the code in the code editor on the left. There are errors in all of the lines of code. Fix the code so that it runs without errors.
+
+**Warning:** The output in your program should match the example output shown below exactly, character for character, even spaces and symbols should be identical, otherwise the tests won't pass. 
+
+# Example Output
+
+When you run your program, it should print the following:
+
+```
+Day 1 - String Manipulation
+String Concatenation is done with the "+" sign.
+e.g. print("Hello " + "world")
+New lines can be created with a backslash and n.
+
+Day 1 Exercise 1.3
+
+## Inputs
+
+# Instructions
+
+Write a program that prints the number of characters in a user's name.
+
+**Warning.** Your program should work for different inputs. e.g. any name that you input.
+
+# Example Input
+
+```
+Angela
+```
+
+# Example Output
+
+```
+6
