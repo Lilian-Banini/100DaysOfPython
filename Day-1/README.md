@@ -1,5 +1,5 @@
-/** Day 1 exercise 1.1 
-## Printing to the Console
+## Day 1 exercise 1.1 
+## :pushpin:Printing to the Console
 
 # Instructions
 
@@ -38,9 +38,10 @@ This repl includes my testing code that will check if your code meets this assig
 
 [https://repl.it/@appbrewery/day-1-1-solution](https://repl.it/@appbrewery/day-1-1-solution)
 
- Day 1 exercise 1.2
 
-## Debugging
+## Day 1 exercise 1.2
+
+## :pushpin:Debugging
 
 # Instructions
 
@@ -57,10 +58,13 @@ Day 1 - String Manipulation
 String Concatenation is done with the "+" sign.
 e.g. print("Hello " + "world")
 New lines can be created with a backslash and n.
+```
 
-Day 1 Exercise 1.3
 
-## Inputs
+
+## Day 1 Exercise 1.3
+
+## :pushpin:Inputs
 
 # Instructions
 
@@ -78,3 +82,5 @@ Angela
 
 ```
 6
+
+
